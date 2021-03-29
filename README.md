@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ryanmccutcheon21
+- 👋 Hi, I’m Ryan McCutcheon.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning Vue.js
 - 💞️ I’m looking to collaborate on anyting using HTML, CSS, JavaScript, Node.js
