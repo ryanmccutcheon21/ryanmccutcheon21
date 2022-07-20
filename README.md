@@ -1,10 +1,7 @@
 - 👋 Hi, I’m Ryan McCutcheon
-- 👀 I’m interested in web development & data science
-- 🌱 I’m currently learning Vue.js & Python
-- 💞️ I’m looking to collaborate on anyting using HTML, CSS, JavaScript, Node.js
+- 👀 I’m interested in MERN and MEVN stack web development
+- 🌱 I’m currently learning Vue.js
+- 💞️ I’m looking to collaborate on anyting using React, Node.js, or Vue.js
 - 📫 How to reach me ryanmccutcheon5@yahoo.com
 
-<!---
-ryanmccutcheon21/ryanmccutcheon21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://app.daily.dev/ryanmccutcheon2"><img src="https://api.daily.dev/devcards/dd74d385d0614b7e88223643e1b7e56a.png?r=i7r" width="400" alt="Ryan McCutcheon's Dev Card"/></a>
